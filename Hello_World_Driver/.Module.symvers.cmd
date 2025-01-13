@@ -1,1 +1,0 @@
-savedcmd_/home/ubuntu/Linux_Driver_Development/Hello_World_Driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/Linux_Driver_Development/Hello_World_Driver/Module.symvers -T /home/ubuntu/Linux_Driver_Development/Hello_World_Driver/modules.order -i Module.symvers -e 

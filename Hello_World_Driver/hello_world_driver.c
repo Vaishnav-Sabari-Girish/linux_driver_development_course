@@ -16,7 +16,8 @@ static void hello_world_module_exit (void) {         //Runs when the kernel is r
   printk("Bye Bye\n");
 }
 
-module_init(hello_world_module_init);        //Inbuilt C macros
-module_exit(hello_world_module_exit);
+module_init(hello_world_module_init);        //Inbuilt C macro
+module_exit(hello_world_module_exit);        //Inbuilt C macro
+
 
 

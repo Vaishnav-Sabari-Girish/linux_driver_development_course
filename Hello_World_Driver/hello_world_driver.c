@@ -2,6 +2,8 @@
 #include <linux/module.h>
 
 MODULE_LICENSE("GPL");
+
+//Optional (Both)
 MODULE_AUTHOR("Vaishnav Sabari Girish");
 MODULE_DESCRIPTION("Prints 'Hello World'");
 
